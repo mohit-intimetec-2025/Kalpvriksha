@@ -5,7 +5,7 @@
 void main(){
     float temp;
     printf("Enter the temperature in Celcius : ");
-    scanf("%.2f",&temp);
+    scanf("%f",&temp);
 
     // convert degree celcius to degree farhenite 
     // °F = (9/5 × °C) + 32.
